@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+mysql-connector-python
+pymysql
+sqlacodegen
+fastapi 
+uvicorn 
+pydantic 
+aiomysql
+python-dotenv
+pydantic_settings
+bcrypt
